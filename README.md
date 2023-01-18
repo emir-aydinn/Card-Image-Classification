@@ -4,6 +4,6 @@ This is the image classification project by using Decision Tree, Random Forest a
 #URL of the Dataset
 https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification?select=test
 
-#Contributors 
-Emir AYDIN
+#Authors: 
+Emir AYDIN, 
 Isam BARGOTHI
